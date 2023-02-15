@@ -1,0 +1,32 @@
+.search{
+  
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: .6rem;
+    width: 36rem;
+    margin-top: 6rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.main{
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.input{
+    padding: .5rem;
+    width: 25rem;
+    font-size: 1.2rem;
+    margin-left: .5rem;
+    outline: none;
+    border: none;
+   
+}
+
+.icon{
+    font-size: 2rem;
+}

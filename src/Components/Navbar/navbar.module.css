@@ -1,0 +1,20 @@
+
+.header{
+    background-color:transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.nav{
+    color:rgb(254, 241, 252);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style:normal;
+    font-family: serif;
+}
+.Icon{
+    margin-right: .5rem;
+    font-size: 2rem;
+}
